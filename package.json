@@ -1,0 +1,34 @@
+{
+  "name": "resume-nitin",
+  "version": "1.0.5",
+  "description": "My Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinmanocha/resume-nitin.git"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "nitin",
+    "nodejs",
+    "Developer",
+    "Hire Me"
+  ],
+  "author": "https://nitinmanocha.in",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinmanocha/resume-nitin/issues"
+  },
+  "homepage": "https://nitinmanocha.github.io",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0"
+  },
+  "bin": {
+    "resume-nitin": "./index.js"
+  }
+}

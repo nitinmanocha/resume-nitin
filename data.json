@@ -1,0 +1,48 @@
+{
+    "Experience": [
+        "Qdesq Realtech Pvt Ltd. as Software Developer - (Current)",
+        "Ichelon Consulting Group as Web developer intern"
+    ],
+    "Skills": [
+        "JavaScript",
+        "NodeJs",
+        "MongoDb",
+        "PHP",
+        "Sql",
+        "Web Scrapping",
+        "Adobe Photoshop",
+        "Microsoft Azure",
+        "Source Control",
+        "Heroku"
+    ],
+    "Qualification": [
+        "Bachelor of Technology in Computer Science - Maharishi Dayanand University"
+    ],
+    "Certifications": [
+        "Microsoft Certified Technology Associate in database",
+        "Microsoft Certified Office Specialist"
+    ],
+    "Leadership activities and Awards": [
+        "Microsoft Student Partner, India (2017-2019)",
+        "National Finalist of Microsoft Imagine Cup (2017)",
+        "Organized Online coding competition",
+        "Conducted Various workshops for students",
+        "Won code debugging contest"
+    ],
+    "Side Projects": [
+        "CodeRed : A platform to bring hospitals and blood banks of a region together to make exchange of blood  easier",
+        "Thewanderlusts.in : A travel blogging platform",
+        "FindCafes : Platform to get information of best deals and events taking place at any cafe/club and its nearby venues on a single page",
+        "Virus : Created a script and executable program which replicats iteself in all the files and subdirectory of root directory. Any infected file will check its directory for other files & folders and will replicate in those too, when executed"
+    ],
+    "Website and Other profiles": [
+        "https://nitinmanocha.in/",
+        "https://nitinmanocha.github.io/",
+        "https://www.linkedin.com/in/nitin-manocha-645575147/",
+        "https://medium.com/@nitinmanocha16",
+        "https://github.com/nitinmanocha"
+    ],
+    "Contact Information": [
+        "For any query, you can get in touch with me at manochanitin99@gmail.com. Thank You."
+    ]
+}
