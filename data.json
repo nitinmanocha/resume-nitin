@@ -1,18 +1,22 @@
 {
     "Experience": [
-        "Qdesq Realtech Pvt Ltd. as Software Developer - (Current)",
-        "Ichelon Consulting Group as Web developer intern"
+        "Zimyo consulting as Sr. Software Engineer - (Current)",
+        "Qdesq Realtech Pvt Ltd. as Software Engineer - 2019-2022",
+        "Ichelon Consulting Group as Web developer intern - 2018/2019"
     ],
     "Skills": [
         "JavaScript",
+        "ReactJs",
         "NodeJs",
         "MongoDb",
         "PHP",
         "Sql",
         "Web Scrapping",
         "Adobe Photoshop",
+        "AWS",
         "Microsoft Azure",
         "Source Control",
+        "Third party api integration",
         "Heroku"
     ],
     "Qualification": [
@@ -33,7 +37,8 @@
         "CodeRed : A platform to bring hospitals and blood banks of a region together to make exchange of blood  easier",
         "Thewanderlusts.in : A travel blogging platform",
         "FindCafes : Platform to get information of best deals and events taking place at any cafe/club and its nearby venues on a single page",
-        "Virus : Created a script and executable program which replicats iteself in all the files and subdirectory of root directory. Any infected file will check its directory for other files & folders and will replicate in those too, when executed"
+        "Virus : Created a script and executable program which replicats iteself in all the files and subdirectory of root directory. Any infected file will check its directory for other files & folders and will replicate in those too, when executed",
+        "Property Management WebApp : Created a web app for a group of students of California State University, in which any user can check for available properties in and around any particular location, create and update his/her profile, create the listing, etc"
     ],
     "Website and Other profiles": [
         "https://nitinmanocha.in/",
