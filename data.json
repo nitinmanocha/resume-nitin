@@ -1,8 +1,8 @@
 {
     "Experience": [
-        "Zimyo consulting as Sr. Software Engineer - (Current)",
-        "Qdesq Realtech Pvt Ltd. as Software Engineer - 2019-2022",
-        "Ichelon Consulting Group as Web developer intern - 2018/2019"
+        "Paytm as Sr. Software Engineer - (Current)",
+        "Zimyo consulting as Sr. Software Engineer - 2022-2023",
+        "Qdesq Realtech Pvt Ltd. as Software Engineer - 2019-2022"
     ],
     "Skills": [
         "JavaScript",
@@ -34,14 +34,13 @@
         "Won code debugging contest"
     ],
     "Side Projects": [
-        "CodeRed : A platform to bring hospitals and blood banks of a region together to make exchange of blood  easier",
-        "Thewanderlusts.in : A travel blogging platform",
-        "FindCafes : Platform to get information of best deals and events taking place at any cafe/club and its nearby venues on a single page",
-        "Virus : Created a script and executable program which replicats iteself in all the files and subdirectory of root directory. Any infected file will check its directory for other files & folders and will replicate in those too, when executed",
+        "Employee Self Service (HRMS):It is a platform which has all the basic and advanced functionality of a HR management system like marking attendance, assigning tasks to juniors, filling time logs, generating reports, analytics, applying for leaves & Work from home, etc., Internal chat mechanism, creating surveys and much more. Designed and developed customized components, UI/UX, Web accessibility, micro services and REST-APIS, Third Party module and integration of these across different modules for National and International markets.",
+        "Inventory management system: Created an Inventory management system for the students of California state university, U.S.A for their Graduation project using ReactJs, NodeJs, MongoDb and google API services. It is mainly used for listing the properties, searching the nearby properties based on the location, creating properties, uploading images, user account creation and updation etc.",
+        "Qudify: Post covid, most of the companies are into cost cutting phase and following hybrid model (work from home + work from office). Here comes the Qudify, it can be used by any organization internally to book the meeting rooms and desks a day prior to the date of visit to the office. It works based on the location of the property and department details",
+        "Qdesq: It’s a product which is used for booking office spaces. It has functionalities like posting the requirement, adding the workspaces, scheduling visits, managing properties, generating auto reports, raising invoices, making online payments, creating dynamic email templates, authentication mechanism etc.",
         "Property Management WebApp : Created a web app for a group of students of California State University, in which any user can check for available properties in and around any particular location, create and update his/her profile, create the listing, etc"
     ],
     "Website and Other profiles": [
-        "https://nitinmanocha.in/",
         "https://nitinmanocha.github.io/",
         "https://www.linkedin.com/in/nitin-manocha-645575147/",
         "https://medium.com/@nitinmanocha16",
